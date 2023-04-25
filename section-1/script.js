@@ -1,1 +1,2 @@
-alert('work please')
+document.write('hello world');
+alert('work please');
