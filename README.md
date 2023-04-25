@@ -35,3 +35,10 @@ git push
 # If this was your first push for a branch, chances are it will throw and error saying there is no remote setup.
 # Just copy and paste the output command into PowerShell and it will do what it needs to do for you.
 ```
+
+### undo commit
+
+```powershell
+# undo a commit that hasn't been pushed on the current branch
+git reset HEAD~
+```
