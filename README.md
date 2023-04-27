@@ -9,6 +9,9 @@ https:#www.udemy.com/course/javascript-training/learn/lecture/8110338#overview
 # Always make sure you're on your main branch
 git checkout main
 
+# Switch to a different branch
+git checkout branch name
+
 # Always make sure your local is up to date with any changes to your remote
 git pull
 
