@@ -20,6 +20,9 @@ git checkout -b my-new-branch
 
 # Confirm you're in your new branch
 git branch 
+
+# delete a branch
+git brnach -D branch name
 ```
 
 ### commit and push
